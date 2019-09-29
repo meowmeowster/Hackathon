@@ -1,0 +1,154 @@
+*
+{
+	margin: 0;
+}
+
+
+.top
+{
+position: absolute;
+width: 100%;
+height: 20%;
+background: #2F4F4F;
+
+}
+
+.block
+{
+background: #D3D3D3;
+position: inherit;
+left: 12%;
+width: 75%;
+height: 10%;
+margin-top: 8%;
+
+}
+
+.block p
+{
+	position: relative;
+font-size: 2em;
+top: 18%;
+text-align: center;
+}
+
+.main
+{
+	position: absolute;
+	top: 20%;
+width: 100%;
+height: 100%;
+}
+
+.left
+{
+width: 45%;
+height: 100%;
+position: relative;
+margin: 2%;
+display: inline-block;
+vertical-align: top;
+background: #696969;
+}
+
+.right
+{
+height: 100%;
+position: inherit;
+width: 45%;
+margin: 2%;
+display: inline-block;
+background: #778899;
+}
+
+
+
+.block2
+{
+	position: relative;
+	margin-top: 8%;
+	width: 80%;
+	height: 60%;
+	background: #D3D3D3;
+	margin-left: 10%;
+
+}
+
+.button
+{
+	position: relative;
+	margin-left: 55%;
+	width: 35%;
+	margin-top: 5%;
+	background: #D3D3D3;
+	height: 8%;
+}
+
+.stat
+{
+background: #D3D3D3;
+position: relative;
+left: 10%;
+width: 80%;
+height: 12%;
+margin-top: 8%;
+}
+
+.stat h1
+{
+text-align: center;
+position: inherit;
+font-size: 2em;
+top: 22%;
+}
+
+.bd
+{
+	background: #D3D3D3;
+position: relative;
+left: 12%;
+width: 75%;
+min-height: 10%;
+margin-top: 8%;
+}
+
+.bd p
+{
+text-align: center;
+position: relative;
+font-size: 2em;
+top: 0.5em;
+}
+
+.bd h3
+{
+	position: absolute;
+}
+
+
+
+.description
+{
+	position: relative;
+	margin-top: 8%;
+	width: 80%;
+	min-height: 40%;
+	background: #D3D3D3;
+	margin-left: 10%;
+}
+
+.description p
+{
+	font-size: 1.2em;
+}
+
+.description2
+{
+	position: relative;
+	margin-top: 8%;
+	width: 75%;
+	min-height: 40%;
+	background: #D3D3D3;
+	margin-left: 12%;
+}
+

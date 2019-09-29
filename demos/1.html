@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<div id="info" style='display:none'>
+</div>
+<div id="loading" style='display:flex'>
+    <div class="spinner-text">
+        Загрузка...
+    </div>
+    <div class="sk-spinner sk-spinner-pulse"></div>
+</div>
+<div id='main' style="display:none;">
+    <video id="video" playsinline style=" -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        display: none;
+        ">
+    </video>
+    <canvas id="output" style="background-color: rgba(16, 21, 32, 0.7); margin: 10px; border: 5px"/>
+</div>
+
+<script src="camera.js"></script>
+</body>
+</html>
