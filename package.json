@@ -12,7 +12,7 @@
     "@tensorflow-models/posenet": "^2.1.1",
     "@tensorflow/tfjs": "^1.1.2",
     "stats.js": "^0.17.0",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "watch": "cross-env NODE_ENV=development parcel index.html --no-hmr --open ",
